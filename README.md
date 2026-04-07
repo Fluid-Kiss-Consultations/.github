@@ -113,10 +113,10 @@ Explore:
 
 ## Active Projects
 
-- **[Nifty Mints Diamond v3](https://github.com/fluidkiss1337-creator/nifty-mints-diamond)**
-- **[N.I.K.O./B.R.A.N.D.I.](https://github.com/fluidkiss1337-creator/niko-brandi)**
-- **[S.H.A.N.N.O.N.](https://github.com/fluidkiss1337-creator/shannon)**
-- **[FKC Data](https://github.com/fluidkiss1337-creator/fkc-data)**
+- **[Nifty Mints Diamond v3](https://github.com/fluidkiss1337-creator/nifty-mints-v3-overview)**
+- **[N.I.K.O.System](https://github.com/Fluid-Kiss-Consultations/NIKOSystem)**
+- **[B.R.A.N.D.I.](https://github.com/Fluid-Kiss-Consultations/BRANDI)**
+- **[NIKOSystem-Diamond](https://github.com/fluidkiss1337-creator/NIKOSystem-Diamond)**
 - **[Surety Diamond](https://github.com/fluidkiss1337-creator/Surety-Diamond)**
 
 ---
