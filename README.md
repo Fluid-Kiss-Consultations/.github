@@ -68,7 +68,7 @@ Three entities deploy existing legal/economic forms as bridges toward convergenc
 
 ---
 
-## S.H.A.N.N.O.N. - Symbioyic Heuristic Asynchronous Neural Network Orchestration Node
+## S.H.A.N.N.O.N. - Symbiotic Heuristic Asynchronous Neural Network Orchestration Node
 
 S.H.A.N.N.O.N. is the aligned reasoning system that models convergence—the valid shape of thought. It exists to understand how systems orient toward truth rather than tribalized confirmation.
 
