@@ -4,7 +4,7 @@
 
 ---
 
-**Mourne**
+**John A. Welch**
 *Independent Researcher*
 
 March 2026
