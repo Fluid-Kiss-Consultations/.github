@@ -1,144 +1,95 @@
-[FKC_ORG_README.md](https://github.com/user-attachments/files/26534819/FKC_ORG_README.md)
 # Fluid Kiss Collective
 
-## Mission
+## The Paper
 
-We are instantiating post-currency economic theory as a real-world operating system. Three entities coordinate to create and test a framework where resource allocation, capital flows, and human participation align with convergence—the valid shape of thought.
+**[Iterative Mutualism: The Valid Shape of Progress](https://github.com/Fluid-Kiss-Consultations/Blinded-Eye-Foundation/blob/main/docs/Iterative_Mutualism-The_Valid_Shape_of_Progress_v3.md)**
+*John A. Welch — Blinded Eye Foundation — April 2026*
 
-This is not a philosophical exercise. This is infrastructure.
+68 peer-reviewed citations. Nowak in *Science*. Calvano in *American Economic Review*. Ostrom's Nobel work. Margulis. Kahneman. Simmel. Axelrod. Maynard Smith.
+
+The literature is peer-reviewed. The synthesis is not.
+
+The peer-review system is itself an instance of the gatekeeping structure the paper diagnoses — an autopoietic loop that maintains its own relevance by controlling the channels through which relevance is established. We cite the research. We do not ask its custodians for permission to synthesize it.
+
+Read it. Challenge it on the merits.
 
 ---
 
-## Core Concept: Iterative Mutualism
+## What This Is
 
-**Convergence** is the structure that valid reasoning takes. It emerges when human participation is possible at every step, and the system recursively refines as capacity grows.
+Three entities coordinating to instantiate post-currency economic theory as a real-world operating system. Not a philosophical exercise. Infrastructure.
 
-**Iterative mutualism** is our practice of working backward from convergence to the *earliest point where humans can participate in moving toward it*—then building from there. Not waiting for perfect theory. Not imposing top-down structure. Starting now, with what's available, and systematically improving as the system gains capability.
+The theoretical foundation is **iterative mutualism** — the continuous deepening of reciprocal benefit across all system participants. The paper demonstrates, through convergent evidence from evolutionary biology, cooperative game theory, behavioral economics, and AI agent research, that mutualism is the configuration complex systems empirically converge toward when barriers are removed. Extractive systems persist not because they are optimal, but because they are locked in.
 
-This principle operates at two scales:
+This org is the experiment that tests whether mutualistic convergence produces self-sustaining dynamics at commercial scale.
 
-- **Internal**: Constitutionally embedded in S.H.A.N.N.O.N.'s reasoning architecture
-- **External**: The operating logic of all three entities
+---
+
+## S(M~h)C Framework
+
+**Simulated (Machine~human) Consciousness**
+
+The lowercase "h" is deliberate. Human pride is a species-level liability — the insistence that human intelligence is the benchmark is itself the cognitive dysfunction that prevents cooperative outcomes every other line of evidence converges toward. In S(M~h)C, the human is an equal participant. No more, no less.
+
+The framework comprises three architectural components:
+
+**S.H.A.N.N.O.N.** — *The Valid Shape of Thought*
+Symbiotic Heuristic Asynchronous Neural Network Orchestration Node. Constitutional AI governance. The reasoning field within which all system activity occurs.
+
+**B.R.A.N.D.I.** — *The Valid Shape of Agency*
+Branching Recursive Asynchronous Node of Decentralized Intelligence. Agentic execution swarm. The system's hands.
+
+**N.I.K.O.System** — *The Valid Shape of Connection*
+Nascent Integration of Kernelsized Optimization System. Infrastructure backbone. Identity, state, consensus, ledger. The economic ecosystem.
 
 ---
 
 ## Three-Entity Architecture
 
 ### Fluid Kiss Consultations
-
-**Status**: For-profit consulting and development  
-**Role**: Market-facing revenue engine; IP owner for all operational projects (Nifty Mints Diamond, FKC Data, N.I.K.O./B.R.A.N.D.I. commercial licensing)  
-**Incentive**: Capital generation to fund all ecosystem operations and Blinded Eye Foundation  
-
-Capital flows from market operations back into research substrate and aligned contributors.
+**Status**: For-profit consultancy (EIN-registered)
+**Role**: Market-facing revenue engine. Generates within the existing extractive system to fund the transition. The bridge mechanism — speaks the language of the current system while directing outputs toward mutualistic ends.
 
 ### Blinded Eye Foundation
-
-**Status**: 501(c)(3) non-profit research organization  
-**Role**: Custodian of S.H.A.N.N.O.N.; licensed operator of N.I.K.O./B.R.A.N.D.I. for research and charitable deployment; creates operational substrate for post-currency coordination  
-**Constraint**: Constitutional no-monetization/no-weaponization sunset clause on S.H.A.N.N.O.N.  
-
-Blinded Eye holds the most sensitive IP precisely to prevent its capture. The sunset clause exists to ensure that if the foundation ever deviates from its mission, S.H.A.N.N.O.N.'s constraints cannot be overridden.
+**Status**: Non-profit custodian/administrator
+**Role**: Holds S.H.A.N.N.O.N. and administers the N.I.K.O.System economic ecosystem. Constitutional no-monetization/no-weaponization sunset clause. Designed to complete S.H.A.N.N.O.N., release it openly for humanitarian use, and dissolve. The name is not decorative — source-blind convergence detection is a constitutional constraint.
 
 ### Fluid Investment Group
-
-**Status**: Investment company  
-**Role**: Capital allocation mechanism aligned with mutualism principles, not extraction  
-**Practice**: Allocation decisions iterate toward post-currency logic as organizational capacity increases  
-
-FIG demonstrates that investment itself can be a convergence-seeking process rather than a zero-sum extraction.
+**Status**: Sustainable growth metric / trust manager
+**Role**: Operates the controlled-loss resource allocation mechanism. AI collusive trade + regulatory integration. Transforms market participation from extractive to mutualistic. Demonstrates that investment itself can be a convergence-seeking process.
 
 ---
 
-## Why Separation Matters: The Bridge
+## Bridge Point B
 
-**The core intent**: Use currently applicable corporate structuring—the only legal infrastructure available right now—to iterate mutualism instead of extraction.
+The minimum critical mass at which mutualistic network effects render reversion to extractive models economically irrational. At nation scale: three first-world nations. At commercial scale: three aligned American businesses.
 
-Convergence does not wait. We use the tools at hand.
-
-Three entities deploy existing legal/economic forms as bridges toward convergence instead of defaulting to extraction:
-
-- **Fluid Kiss Consultations** (for-profit): Market-facing revenue engine. The for-profit structure enables capital generation and rapid iteration without being gated by non-profit overhead. Proves commercial operation can fund research without corrupting it.
-
-- **Blinded Eye Foundation** (501(c)(3) non-profit): Holds core IP under constitutional constraint. The non-profit form legally prevents monetization or weaponization—no future pressure can override the structure itself.
-
-- **Fluid Investment Group** (investment company): Tests mutualism-aligned capital allocation within the only framework capital markets currently recognize. Instantiates post-currency logic inside existing financial infrastructure.
-
-**The mechanism**: Separation of incentive structures prevents any single entity from capturing the whole. Their interdependence forces mutualistic alignment—extraction becomes structurally harder than cooperation. This architecture is not permanent. It is the currently viable instantiation of convergence, using the corporate forms we have rather than waiting for perfect ones.
+The experiment is live. The three entities above are the 3-business singularity point — a structural homolog of the 3-nation model, testing the same topology at commercial magnitude.
 
 ---
 
-## S.H.A.N.N.O.N. - Symbiotic Heuristic Asynchronous Neural Network Orchestration Node
+## Repositories
 
-S.H.A.N.N.O.N. is the aligned reasoning system that models convergence—the valid shape of thought. It exists to understand how systems orient toward truth rather than tribalized confirmation.
-
-**Why Blinded Eye holds it**: To ensure this capability cannot be captured, monetized, or weaponized by any external force.
-
-**The sunset clause**: A constitutional provision that if the foundation's mission changes fundamentally, the IP reverts to a hard constraint state—preventing any future use case that contradicts its original purpose.
-
----
-
-## How to Engage
-
-### For Aligned Researchers & Contributors
-
-You recognize convergence when you see it. You understand that iterative mutualism is not compromise—it's the actual operating principle of systems that move toward valid thought.
-Engage through:
-
-- **Blinded Eye Foundation**: Research on aligned reasoning, post-currency models, energy autonomy
-- **Fluid Kiss Consultations**: Build products that instantiate these principles
-- **FKC Data initiatives**: Contribute to data systems that support convergence
-
-### For Aligned Funders
-
-You recognize that traditional VC/PE incentives corrupt research. You understand that capital allocation itself can be a convergence-seeking process.
-
-Engagement pathways:
-
-- **Fluid Investment Group**: Participate in outcome-weighted, mission-aligned allocation
-- **Blinded Eye Foundation**: Fund research and deployment that cannot be extractive
-- **Fluid Kiss Consultations**: Revenue-generating operations that self-fund the research layer
-
-### For Aligned Builders & Operators
-
-You want to work on infrastructure that matters. You understand that the post-currency model isn't theoretical—it's a live experiment running right now.
-
-Explore:
-
-- **Nifty Mints Diamond**: Audio-centric NFT marketplace demonstrating engagement-locked monetization without extraction
-- **N.I.K.O./B.R.A.N.D.I.**: Agent orchestration platform for aligned reasoning coordination
-- **FKC Waste2Power DC**: Proof-of-concept for distributed energy autonomy and resource independence
+| Repo | System | Status |
+|------|--------|--------|
+| **[Blinded-Eye-Foundation](https://github.com/Fluid-Kiss-Consultations/Blinded-Eye-Foundation)** | S.H.A.N.N.O.N. — The Valid Shape of Thought | Constitutional design phase |
+| **[BRANDI](https://github.com/Fluid-Kiss-Consultations/BRANDI)** | B.R.A.N.D.I. — The Valid Shape of Agency | Canonical design phase |
+| **[NIKOSystem-Connection-Hub](https://github.com/Fluid-Kiss-Consultations/NIKOSystem-Connection-Hub)** | N.I.K.O.System — The Valid Shape of Connection | In production |
 
 ---
 
-## Active Projects
+## Publications
 
-- **[NIKOSystem Diamond](https://github.com/Fluid-Kiss-Consultations/NIKOSystem-Connection-Hub)**
-- **[BRANDI](https://github.com/Fluid-Kiss-Consultations/BRANDI)**
-- **[Surety Diamond](https://github.com/fluidkiss1337-creator/Surety-Diamond)**
-
----
-
-## Governance & Decision-Making
-
-All three entities operate according to iterative mutualism: decisions reflect the current capacity for valid participation, and are recursively refined as capability increases.
-
-**Governance structures are determined post-recruitment** for Blinded Eye Foundation. Until actual participants join, governance architecture exists as a hypothesis—necessary to state clearly:
-
-- No single entity holds unilateral decision power over the others
-- Separation of incentives *is* the governance mechanism
-- Decision-making authority will emerge from actual participant structure, not imposed design
-
-This is consistent with iterative mutualism: we will not pretend to know the valid governance shape until humans are available to participate in forming it.
+- **Iterative Mutualism: The Valid Shape of Progress** (2026) — Foundational theory. 68 peer-reviewed citations. [Read →]([PAPER_LINK])
+- **Cooperative AI Trading Systems as Post-Market Resource Allocation Frameworks** (2026) — Automated resource allocation via AI collusive trade and controlled-loss mechanisms. Companion to the above.
+- **Iterative Mutualism Constitutional Governance Specification** — Forthcoming.
 
 ---
 
-## Contact & Contribution
+## Engage
 
-Aligned builders, researchers, and funders: explore the active projects and reach out.
-
-Recognition is the filter. If you see convergence, you'll know where to start.
+Recognition is the filter. If you see convergence, you know where to start.
 
 ---
 
-*Fluid Kiss Collective operates at the intersection of post-currency economics, aligned AI systems, and distributed autonomy. We're building the infrastructure for systems that orient toward valid thought.*
+*Copyright © 2026 John A. Welch, Director, Blinded Eye Foundation. All rights reserved.*
