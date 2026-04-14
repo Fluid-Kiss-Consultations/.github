@@ -80,7 +80,7 @@ The experiment is live. The three entities above are the 3-business singularity 
 
 ## Publications
 
-- **Iterative Mutualism: The Valid Shape of Progress** (2026) — Foundational theory. 68 peer-reviewed citations. [Read →]([PAPER_LINK])
+- **Iterative Mutualism: The Valid Shape of Progress** (2026) — Foundational theory. 68 peer-reviewed citations. [Read →](https://github.com/Fluid-Kiss-Consultations/Blinded-Eye-Foundation/blob/main/docs/Iterative_Mutualism-The_Valid_Shape_of_Progress_v3.md)
 - **Cooperative AI Trading Systems as Post-Market Resource Allocation Frameworks** (2026) — Automated resource allocation via AI collusive trade and controlled-loss mechanisms. Companion to the above.
 - **Iterative Mutualism Constitutional Governance Specification** — Forthcoming.
 
