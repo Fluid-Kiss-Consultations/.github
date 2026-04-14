@@ -51,11 +51,11 @@ Nascent Integration of Kernelsized Optimization System. Infrastructure backbone.
 **Role**: Market-facing revenue engine. Generates within the existing extractive system to fund the transition. The bridge mechanism — speaks the language of the current system while directing outputs toward mutualistic ends.
 
 ### Blinded Eye Foundation
-**Status**: Non-profit custodian/administrator
+**Status**: Non-profit custodian/administrator (501(c) application pending)
 **Role**: Holds S.H.A.N.N.O.N. and administers the N.I.K.O.System economic ecosystem. Constitutional no-monetization/no-weaponization sunset clause. Designed to complete S.H.A.N.N.O.N., release it openly for humanitarian use, and dissolve. The name is not decorative — source-blind convergence detection is a constitutional constraint.
 
 ### Fluid Investment Group
-**Status**: Sustainable growth metric / trust manager
+**Status**: Sustainable growth metric / trust manager (EIN-registered)
 **Role**: Operates the controlled-loss resource allocation mechanism. AI collusive trade + regulatory integration. Transforms market participation from extractive to mutualistic. Demonstrates that investment itself can be a convergence-seeking process.
 
 ---
