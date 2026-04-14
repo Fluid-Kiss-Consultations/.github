@@ -1,4 +1,3 @@
-[FKC_ORG_README.md](https://github.com/user-attachments/files/26534819/FKC_ORG_README.md)
 # Fluid Kiss Collective
 
 ## Mission
