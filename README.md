@@ -112,11 +112,7 @@ Explore:
 
 ## Active Projects
 
-- **[Nifty Mints Diamond v3](https://github.com/fluidkiss1337-creator/nifty-mints-v3-overview)**
-- **[N.I.K.O.System](https://github.com/Fluid-Kiss-Consultations/NIKOSystem)**
-- **[B.R.A.N.D.I.](https://github.com/Fluid-Kiss-Consultations/BRANDI)**
-- **[NIKOSystem-Diamond](https://github.com/fluidkiss1337-creator/NIKOSystem-Diamond)**
-- **[Surety Diamond](https://github.com/fluidkiss1337-creator/Surety-Diamond)**
+UPDATE MAINTENANCE
 
 ---
 
