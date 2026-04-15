@@ -1,4 +1,4 @@
-# Cooperative AI Trading Systems as Post-Market Resource Allocation Frameworks: The Valid Shape of Growth
+# Iterative Mutualism: The Valid Shape of Growth
 
 ## A Theoretical Analysis of Universal Value Generation Through Agentic Collusion, Controlled Loss Mechanisms, and Integrated Governance
 
