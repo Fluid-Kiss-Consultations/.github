@@ -71,6 +71,7 @@ This paper proceeds through evidence for each.
 Extraction requires that the extracted-from be modeled as less real than the extractor. This is not a side effect of extraction. It is a prerequisite.
 
 Consider a simple case: a logger clear-cutting a forest. The coherent model of that forest includes:
+
 - The mycorrhizal network binding trees together for nutrient sharing (Simard, 1997; Simard et al., 2015)
 - The canopy's role in regional water cycling and climate regulation
 - The watershed's dependence on forest cover for sediment and nutrient retention
@@ -100,12 +101,14 @@ This is path-dependent coherence: not merely that the system persists, but that 
 Porges's polyvagal theory (2011) provides the neurobiological mechanism for coherence suppression. The vagal system has two primary branches with opposite functions:
 
 **Ventral vagal complex (vagus):** Activates in states of safety. Enables:
+
 - Accurate facial recognition and expression reading
 - Prediction of others' mental states
 - Prosocial behavior
 - High-fidelity reality modeling
 
 **Dorsal vagal complex (older vagus) and sympathetic nervous system:** Activates in states of threat. Produces:
+
 - Rapid classification systems (threat/non-threat, in-group/out-group)
 - Simplified models of others
 - Preparation for fight-or-flight
@@ -181,12 +184,14 @@ Maturana and Varela (1980) established that living systems maintain themselves t
 The key parameter is feedback fidelity: how accurately does the system's internal model track its external reality?
 
 High-fidelity feedback enables:
+
 - Accurate prediction of consequences
 - Timely correction when predictions fail
 - Learning that persists across time
 - Resilience to environmental changes
 
 Low-fidelity feedback produces:
+
 - Prediction errors treated as surprises
 - Reactive correction (after damage occurs)
 - Learning that doesn't persist (same mistakes repeat)
@@ -234,17 +239,20 @@ Let R(W) be the actual state of W.
 Formally:  
 **Coherence(E) = ∫ P(prediction_error < ε) dt over the system's operational lifetime**
 
-Where:  
-- prediction_error = |M_E(t) - R(W, t)|  
-- ε is the threshold at which errors cause system dysfunction  
+Where:
+
+- prediction_error = |M_E(t) - R(W, t)|
+- ε is the threshold at which errors cause system dysfunction
 - The integral is taken over time, so coherence is measured by consistency, not a single accurate prediction
 
 High coherence means:
+
 - The model's predictions match reality repeatedly
 - Correction occurs before dysfunction
 - The system learns
 
 Low coherence means:
+
 - Prediction errors are frequent surprises
 - Correction occurs after damage
 - The system repeats mistakes
@@ -260,6 +268,7 @@ A simulation-distance of 0 means the model is as accurate as the domain's comple
 A simulation-distance approaching 1 means the model is maximally simplified.
 
 Extraction requires non-zero simulation-distance in at least one domain:
+
 - The extracted-from must be modeled as simpler, less real, less causally efficacious than it actually is
 - This allows extraction to proceed without coherence-based correction
 
@@ -293,6 +302,7 @@ In each case, love is the operational choice to maintain coherence despite its c
 Care emerges necessarily from coherence.
 
 If you maintain an accurate model of another's state, you will track:
+
 - What causes them suffering
 - What meets their needs
 - What consequences your actions produce for them
@@ -303,6 +313,7 @@ Prediction produces consequence-tracking: The other's suffering becomes your pro
 This is not altruism. It is information-theoretic necessity. Once coherence is established, caring becomes the path of least resistance.
 
 Extraction requires breaking this necessity — requires the capacity to maintain accurate modeling of the other while suppressing the consequence-tracking that would follow. This is extraordinarily cognitively expensive. It requires:
+
 - Continuous surveillance to prevent the other from becoming real to you
 - Narrative work to justify the disconnection (they deserve it, they're not like us, they're not real enough to care about)
 - Institutional reinforcement (everyone else is doing it, so you won't be singular in coherence-suppression)
@@ -317,6 +328,7 @@ Coherence, by contrast, is the default outcome when these suppressions are remov
 ### 5.1 Information Loss and Cascading Errors
 
 An extractive system operating at small scale can maintain its simulation-distances through careful management. A logger operating on a small forest can track the consequences of logging because they are visible within the logger's operational lifetime. But as extraction scales, the information domain expands:
+
 - Temporal: consequences appear after the logger has moved on
 - Spatial: consequences appear far from the extraction site
 - Ecological: consequences cascade through networks the model doesn't include
@@ -328,6 +340,7 @@ The usual response is to increase surveillance and coercion: track more variable
 But there is a fundamental limit. The information required to model a complex system accurately grows with the system's complexity. Beyond a certain scale, the institution required to maintain surveillance and coercion becomes more expensive than the resource being extracted.
 
 At this point, the extractive system faces a choice:
+
 1. **Expand coherence**: Increase the fidelity of the model to include the domains that are producing surprises
 2. **Increase suppression**: Double down on simulation-distance, develop more sophisticated narrative work and institutional control
 
@@ -531,47 +544,47 @@ What is not an empirical question is the diagnosis. Extractive systems fail beca
 
 Acemoglu, D., & Robinson, J. A. (2012). *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*. Crown Publishers. ISBN: 978-0-307-71921-8.
 
-Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. *Organizational Behavior and Human Decision Processes*, 35(1), 124–140. https://doi.org/10.1016/0749-5978(85)90049-4
+Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. *Organizational Behavior and Human Decision Processes*, 35(1), 124–140. <https://doi.org/10.1016/0749-5978(85)90049-4>
 
-Arthur, W. B. (1989). Competing technologies, increasing returns, and lock-in by historical events. *The Economic Journal*, 99(394), 116–131. https://doi.org/10.2307/2234208
+Arthur, W. B. (1989). Competing technologies, increasing returns, and lock-in by historical events. *The Economic Journal*, 99(394), 116–131. <https://doi.org/10.2307/2234208>
 
-Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., … Kaplan, J. (2022). Constitutional AI: Harmlessness from AI feedback. *arXiv preprint arXiv:2212.08073*. https://doi.org/10.48550/arXiv.2212.08073
+Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., … Kaplan, J. (2022). Constitutional AI: Harmlessness from AI feedback. *arXiv preprint arXiv:2212.08073*. <https://doi.org/10.48550/arXiv.2212.08073>
 
 Berger, P. L., & Luckmann, T. (1966). *The Social Construction of Reality: A Treatise in the Sociology of Knowledge*. Doubleday. ISBN: 978-0-385-05898-8.
 
-Brennan, G., & Buchanan, J. M. (1985). *The Reason of Rules: Constitutional Political Economy*. Cambridge University Press. https://doi.org/10.1017/CBO9780511895937
+Brennan, G., & Buchanan, J. M. (1985). *The Reason of Rules: Constitutional Political Economy*. Cambridge University Press. <https://doi.org/10.1017/CBO9780511895937>
 
-Bronstein, J. L. (Ed.). (2015). *Mutualism*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199675654.001.0001
+Bronstein, J. L. (Ed.). (2015). *Mutualism*. Oxford University Press. <https://doi.org/10.1093/acprof:oso/9780199675654.001.0001>
 
-Buchanan, J. M., & Tullock, G. (1962). *The Calculus of Consent: Logical Foundations of Constitutional Democracy*. University of Michigan Press. https://doi.org/10.3998/mpub.7687
+Buchanan, J. M., & Tullock, G. (1962). *The Calculus of Consent: Logical Foundations of Constitutional Democracy*. University of Michigan Press. <https://doi.org/10.3998/mpub.7687>
 
-Carlini, N., & Wagner, D. (2017). Towards evaluating the robustness of neural networks. In *2017 IEEE Symposium on Security and Privacy (SP)*, 39–57. https://doi.org/10.1109/SP.2017.49
+Carlini, N., & Wagner, D. (2017). Towards evaluating the robustness of neural networks. In *2017 IEEE Symposium on Security and Privacy (SP)*, 39–57. <https://doi.org/10.1109/SP.2017.49>
 
-Chen, D., Qian, G., Shi, B., & Song, M. (2019). Facial expression recognition based on attentive feature aggregation. *Electronics*, 8(10), 1150. https://doi.org/10.3390/electronics8101150
+Chen, D., Qian, G., Shi, B., & Song, M. (2019). Facial expression recognition based on attentive feature aggregation. *Electronics*, 8(10), 1150. <https://doi.org/10.3390/electronics8101150>
 
-Cover, T. M., & Thomas, J. A. (2006). *Elements of Information Theory* (2nd ed.). Wiley-Interscience. https://doi.org/10.1002/047174882X
+Cover, T. M., & Thomas, J. A. (2006). *Elements of Information Theory* (2nd ed.). Wiley-Interscience. <https://doi.org/10.1002/047174882X>
 
-Elster, J. (1979). *Ulysses and the Sirens: Studies in Rationality and Irrationality*. Cambridge University Press. https://doi.org/10.1017/CBO9781139173131
+Elster, J. (1979). *Ulysses and the Sirens: Studies in Rationality and Irrationality*. Cambridge University Press. <https://doi.org/10.1017/CBO9781139173131>
 
-Elster, J. (2000). *Ulysses Unbound: Studies in Rationality, Precommitment, and Constraints*. Cambridge University Press. https://doi.org/10.1017/CBO9780511625008
+Elster, J. (2000). *Ulysses Unbound: Studies in Rationality, Precommitment, and Constraints*. Cambridge University Press. <https://doi.org/10.1017/CBO9780511625008>
 
 Foucault, M. (1975). *Discipline and Punish: The Birth of the Prison* (A. Sheridan, Trans.). Pantheon Books. ISBN: 978-0-679-75255-4.
 
-Frederickson, M. E. (2013). Rethinking mutualism stability: Cheaters and the evolution of sanctions. *The Quarterly Review of Biology*, 88(4), 269–295. https://doi.org/10.1086/673757
+Frederickson, M. E. (2013). Rethinking mutualism stability: Cheaters and the evolution of sanctions. *The Quarterly Review of Biology*, 88(4), 269–295. <https://doi.org/10.1086/673757>
 
-Frederick, S., Loewenstein, G., & O'Donoghue, T. (2002). Time discounting and time preference: A critical review. *Journal of Economic Literature*, 40(2), 351–401. https://doi.org/10.1257/jel.40.2.351
+Frederick, S., Loewenstein, G., & O'Donoghue, T. (2002). Time discounting and time preference: A critical review. *Journal of Economic Literature*, 40(2), 351–401. <https://doi.org/10.1257/jel.40.2.351>
 
-Gabriel, I. (2020). Artificial intelligence, values, and alignment. *Minds and Machines*, 30, 411–437. https://doi.org/10.1007/s11023-020-09539-2
+Gabriel, I. (2020). Artificial intelligence, values, and alignment. *Minds and Machines*, 30, 411–437. <https://doi.org/10.1007/s11023-020-09539-2>
 
-Gallese, V., Fadiga, L., Fogassi, L., & Rizzolatti, G. (1996). Action recognition in the premotor cortex. *Brain*, 119(2), 593–609. https://doi.org/10.1093/brain/119.2.593
+Gallese, V., Fadiga, L., Fogassi, L., & Rizzolatti, G. (1996). Action recognition in the premotor cortex. *Brain*, 119(2), 593–609. <https://doi.org/10.1093/brain/119.2.593>
 
-Goodfellow, I. J., Shlens, J., & Szegedy, C. (2014). Explaining and harnessing adversarial examples. *arXiv preprint arXiv:1412.6572*. https://doi.org/10.48550/arXiv.1412.6572
+Goodfellow, I. J., Shlens, J., & Szegedy, C. (2014). Explaining and harnessing adversarial examples. *arXiv preprint arXiv:1412.6572*. <https://doi.org/10.48550/arXiv.1412.6572>
 
 Goodhart, C. A. E. (1975). Problems of monetary management: The UK experience. In A. S. Courakis (Ed.), *Inflation, Depression, and Economic Policy in the West* (pp. 111–146). Rowman & Littlefield.
 
-Hanson, R. (1998). The Great Filter — Are we almost past it? Unpublished manuscript. Retrieved from http://mason.gmu.edu/~rhanson/greatfilter.html
+Hanson, R. (1998). The Great Filter — Are we almost past it? Unpublished manuscript. Retrieved from <http://mason.gmu.edu/~rhanson/greatfilter.html>
 
-Hayek, F. A. (1945). The use of knowledge in society. *The American Economic Review*, 35(4), 519–530. https://www.jstor.org/stable/1809376
+Hayek, F. A. (1945). The use of knowledge in society. *The American Economic Review*, 35(4), 519–530. <https://www.jstor.org/stable/1809376>
 
 Heidegger, M. (1927). *Being and Time* (J. Macquarrie & E. Robinson, Trans., 1962). Harper & Row. ISBN: 978-0-06-063850-0.
 
@@ -579,9 +592,9 @@ Hurwicz, L. (1972). On informationally decentralized systems. In C. B. McGuire &
 
 Hutchins, E. (1995). *Cognition in the Wild*. MIT Press. ISBN: 978-0-262-58146-2.
 
-Jensen, M. C., & Meckling, W. H. (1976). Theory of the firm: Managerial behavior, agency costs and ownership structure. *Journal of Financial Economics*, 3(4), 305–360. https://doi.org/10.1016/0304-405X(76)90026-X
+Jensen, M. C., & Meckling, W. H. (1976). Theory of the firm: Managerial behavior, agency costs and ownership structure. *Journal of Financial Economics*, 3(4), 305–360. <https://doi.org/10.1016/0304-405X(76)90026-X>
 
-Leigh, E. G., Jr. (2010). The evolution of mutualism. *Journal of Evolutionary Biology*, 23(12), 2507–2528. https://doi.org/10.1111/j.1420-9101.2010.02114.x
+Leigh, E. G., Jr. (2010). The evolution of mutualism. *Journal of Evolutionary Biology*, 23(12), 2507–2528. <https://doi.org/10.1111/j.1420-9101.2010.02114.x>
 
 Leopold, A. (1949). *A Sand County Almanac and Sketches Here and There*. Oxford University Press. ISBN: 978-0-19-505928-1.
 
@@ -591,27 +604,27 @@ Luhmann, N. (1995). *Social Systems* (J. Bednarz Jr. & D. Baecker, Trans.). Stan
 
 Margulis, L. (1998). *Symbiotic Planet: A New Look at Evolution*. Basic Books. ISBN: 978-0-465-07272-9.
 
-Maturana, H. R., & Varela, F. J. (1980). *Autopoiesis and Cognition: The Realization of the Living*. D. Reidel Publishing. https://doi.org/10.1007/978-94-009-8947-4
+Maturana, H. R., & Varela, F. J. (1980). *Autopoiesis and Cognition: The Realization of the Living*. D. Reidel Publishing. <https://doi.org/10.1007/978-94-009-8947-4>
 
 Merleau-Ponty, M. (1945). *Phenomenology of Perception* (D. A. Landes, Trans., 2012). Routledge. ISBN: 978-0-415-83480-2.
 
 Michels, R. (1911). *Political Parties: A Sociological Study of the Oligarchical Tendencies of Modern Democracy* (E. Paul & C. Paul, Trans., 1915). Hearst's International Library.
 
-Mudge, N. (2018). EIP-2535: Diamond Standard. *Ethereum Improvement Proposals*. https://eips.ethereum.org/EIPS/eip-2535
+Mudge, N. (2018). EIP-2535: Diamond Standard. *Ethereum Improvement Proposals*. <https://eips.ethereum.org/EIPS/eip-2535>
 
-Myerson, R. B. (1979). Incentive compatibility and the bargaining problem. *Econometrica*, 47(1), 61–73. https://doi.org/10.2307/1912346
+Myerson, R. B. (1979). Incentive compatibility and the bargaining problem. *Econometrica*, 47(1), 61–73. <https://doi.org/10.2307/1912346>
 
-Næss, A. (1973). The shallow and the deep, long-range ecology movement: A summary. *Inquiry*, 16(1–4), 95–100. https://doi.org/10.1080/00201747308601682
+Næss, A. (1973). The shallow and the deep, long-range ecology movement: A summary. *Inquiry*, 16(1–4), 95–100. <https://doi.org/10.1080/00201747308601682>
 
-Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. https://doi.org/10.1037/1089-2680.2.2.175
+Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. <https://doi.org/10.1037/1089-2680.2.2.175>
 
-North, D. C. (1990). *Institutions, Institutional Change and Economic Performance*. Cambridge University Press. https://doi.org/10.1017/CBO9780511808678
+North, D. C. (1990). *Institutions, Institutional Change and Economic Performance*. Cambridge University Press. <https://doi.org/10.1017/CBO9780511808678>
 
-Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press. https://doi.org/10.1017/CBO9780511807763
+Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press. <https://doi.org/10.1017/CBO9780511807763>
 
-Peltzman, S. (2021). Stigler's theory of regulation after fifty years. In N. Shubik (Ed.), *Public Choice and the Challenges of Democracy*. Springer. https://doi.org/10.1007/978-3-030-76222-8_2
+Peltzman, S. (2021). Stigler's theory of regulation after fifty years. In N. Shubik (Ed.), *Public Choice and the Challenges of Democracy*. Springer. <https://doi.org/10.1007/978-3-030-76222-8_2>
 
-Penney, J. W. (2016). Chilling effects: Online surveillance and Wikipedia use. *Berkeley Technology Law Journal*, 31(1), 117–182. https://doi.org/10.15779/Z38SS13
+Penney, J. W. (2016). Chilling effects: Online surveillance and Wikipedia use. *Berkeley Technology Law Journal*, 31(1), 117–182. <https://doi.org/10.15779/Z38SS13>
 
 Popper, K. (1945). *The Open Society and Its Enemies*. Routledge. ISBN: 978-0-415-61021-6.
 
@@ -623,21 +636,21 @@ Schauer, F. (1978). Fear, risk and the first amendment: Unraveling the "chilling
 
 Scott, J. C. (1998). *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. Yale University Press. ISBN: 978-0-300-07815-2.
 
-Shannon, C. E. (1948). A mathematical theory of communication. *The Bell System Technical Journal*, 27(3), 379–423. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x
+Shannon, C. E. (1948). A mathematical theory of communication. *The Bell System Technical Journal*, 27(3), 379–423. <https://doi.org/10.1002/j.1538-7305.1948.tb01338.x>
 
 Siegel, D. J. (2012). *The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are* (2nd ed.). Guilford Press. ISBN: 978-1-4625-2071-3.
 
-Simard, S. W. (1997). Net transfer of carbon between tree species with shared ectomycorrhizal fungi. *Nature*, 388, 579–582. https://doi.org/10.1038/41557
+Simard, S. W. (1997). Net transfer of carbon between tree species with shared ectomycorrhizal fungi. *Nature*, 388, 579–582. <https://doi.org/10.1038/41557>
 
-Simard, S. W., Beiler, K. J., Bingham, M. A., Deslippe, J. R., Philip, L. J., & Teste, F. P. (2015). Mycorrhizal networks: Mechanisms, ecology and modelling. *Fungal Biology Reviews*, 26(1), 39–60. https://doi.org/10.1016/j.fbr.2012.01.001
+Simard, S. W., Beiler, K. J., Bingham, M. A., Deslippe, J. R., Philip, L. J., & Teste, F. P. (2015). Mycorrhizal networks: Mechanisms, ecology and modelling. *Fungal Biology Reviews*, 26(1), 39–60. <https://doi.org/10.1016/j.fbr.2012.01.001>
 
-Simon, H. A. (1955). A behavioral model of rational choice. *The Quarterly Journal of Economics*, 69(1), 99–118. https://doi.org/10.2307/1884852
+Simon, H. A. (1955). A behavioral model of rational choice. *The Quarterly Journal of Economics*, 69(1), 99–118. <https://doi.org/10.2307/1884852>
 
 Simon, H. A. (1957). *Models of Man: Social and Rational*. Wiley.
 
-Stigler, G. J. (1971). The theory of economic regulation. *The Bell Journal of Economics and Management Science*, 2(1), 3–21. https://doi.org/10.2307/3003160
+Stigler, G. J. (1971). The theory of economic regulation. *The Bell Journal of Economics and Management Science*, 2(1), 3–21. <https://doi.org/10.2307/3003160>
 
-Tainter, J. A. (1988). *The Collapse of Complex Societies*. Cambridge University Press. https://doi.org/10.1017/CBO9780511564772
+Tainter, J. A. (1988). *The Collapse of Complex Societies*. Cambridge University Press. <https://doi.org/10.1017/CBO9780511564772>
 
 Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict. In W. G. Austin & S. Worchel (Eds.), *The Social Psychology of Intergroup Relations* (pp. 33–47). Brooks/Cole.
 
@@ -656,7 +669,3 @@ Zuboff, S. (2019). *The Age of Surveillance Capitalism: The Fight for a Human Fu
 ---
 
 *Copyright © 2026 John A. Welch, Director, Blinded Eye Foundation. All rights reserved.*
-
-*License: AGPL-3.0*
-
-*GitHub: Fluid-Kiss-Consultations*

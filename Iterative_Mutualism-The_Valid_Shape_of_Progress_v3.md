@@ -1,14 +1,14 @@
 # Iterative Mutualism: The Valid Shape of Progress
 
->**A Theoretical Framework for Post-Extractive Economic Governance Through Constitutional AI, Cooperative Resource Allocation, and Experimental Validation**
+## *A Theoretical Framework for Post-Extractive Economic Governance Through Constitutional AI, Cooperative Resource Allocation, and Experimental Validation*
 
 **John A. Welch**
 *Director, Blinded Eye Foundation*
 
 April 2026
 
->*Working Paper — Pre-Publication Draft*
->*S(M~h)C Framework / S.H.A.N.N.O.N. Project*
+*Working Paper — Pre-Publication Draft*
+*S(M~h)C Framework / S.H.A.N.N.O.N. Project*
 
 *Collaborative authorship: This paper was developed through iterative discourse between a human systems theorist and an AI reasoning partner, with the synthesis emerging from the interaction pattern — not from either node in isolation.*
 
