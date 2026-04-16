@@ -1,6 +1,6 @@
 # Iterative Mutualism: The Valid Shape of Coherence
 
-## The Valid Shape of Coherence
+## *love as coherence capacity, care allocation, treating-as-real.*
 
 ---
 
