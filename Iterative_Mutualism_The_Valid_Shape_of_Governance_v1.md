@@ -1,6 +1,6 @@
 # Iterative Mutualism: The Valid Shape of Governance
 
->**A Constitutional Specification for Capture-Immune Convergence Architecture**
+## *A Constitutional Specification for Capture-Immune Convergence Architecture*
 
 **John A. Welch**
 *Director, Blinded Eye Foundation*
