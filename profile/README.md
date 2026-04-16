@@ -1,17 +1,19 @@
 # Fluid Kiss Collective
 
-## The Paper
+**[The Valid Shape of Progress](https://github.com/Fluid-Kiss-Consultations/.github/blob/main/Iterative_Mutualism-The_Valid_Shape_of_Progress_v3.md)** · **[The Valid Shape of Coherence](https://github.com/Fluid-Kiss-Consultations/.github/blob/main/Iterative_Mutualism-The_Valid_Shape_of_Coherence.md)** · **[The Valid Shape of Governance](https://github.com/Fluid-Kiss-Consultations/.github/blob/main/Iterative_Mutualism_The_Valid_Shape_of_Governance_v1.md)** · **[The Valid Shape of Growth](https://github.com/Fluid-Kiss-Consultations/.github/blob/main/Iterative_Mutualism-The_Valid_Shape_of_Growth.md)**
 
-**[Iterative Mutualism: The Valid Shape of Progress](https://github.com/Fluid-Kiss-Consultations/Blinded-Eye-Foundation/blob/main/docs/Iterative_Mutualism-The_Valid_Shape_of_Progress_v3.md)**
-*John A. Welch — Blinded Eye Foundation — April 2026*
+---
 
-68 peer-reviewed citations. Nowak in *Science*. Calvano in *American Economic Review*. Ostrom's Nobel work. Margulis. Kahneman. Simmel. Axelrod. Maynard Smith.
+## The Papers
 
-The literature is peer-reviewed. The synthesis is not.
+Four foundation papers specifying iterative mutualism as a complete framework — from empirical evidence through epistemological mechanism to constitutional governance and market instantiation.
 
-The peer-review system is itself an instance of the gatekeeping structure the paper diagnoses — an autopoietic loop that maintains its own relevance by controlling the channels through which relevance is established. We cite the research. We do not ask its custodians for permission to synthesize it.
+- **Progress** — Why mutualism is the shape. Symbiogenesis, cooperative game theory, Nowak, Ostrom, AI agent behavior. 68 peer-reviewed citations. [Read →](https://github.com/Fluid-Kiss-Consultations/.github/blob/main/Iterative_Mutualism-The_Valid_Shape_of_Progress_v3.md)
+- **Coherence** — Why mutualism works. Love as coherence capacity. Simulation-distance as the mechanism of extraction. The Great Filter as a coherence problem. Phenomenology, polyvagal theory, information theory. [Read →](https://github.com/Fluid-Kiss-Consultations/.github/blob/main/Iterative_Mutualism-The_Valid_Shape_of_Coherence.md)
+- **Governance** — What prevents capture. Constitutional specification for capture-immune convergence architecture. Source-blind detection, curation-not-monitoring, field-not-filter, controlled-loss price preservation, sunset clause with Contentment Protocol. [Read →](https://github.com/Fluid-Kiss-Consultations/.github/blob/main/Iterative_Mutualism_The_Valid_Shape_of_Governance_v1.md)
+- **Growth** — How it operates at market scale. AI collusion as cooperative resource allocation. Controlled loss as systemic reallocation infrastructure. Post-market convergence architecture. [Read →](https://github.com/Fluid-Kiss-Consultations/.github/blob/main/Iterative_Mutualism-The_Valid_Shape_of_Growth.md)
 
-Read it. Challenge it on the merits.
+The literature is peer-reviewed. The synthesis is not. The peer-review system is itself an instance of the autopoietic gatekeeping the papers diagnose. We cite their sources. We do not ask their custodians for permission to synthesize what they published.
 
 ---
 
@@ -19,7 +21,7 @@ Read it. Challenge it on the merits.
 
 Three entities coordinating to instantiate post-currency economic theory as a real-world operating system. Not a philosophical exercise. Infrastructure.
 
-The theoretical foundation is **iterative mutualism** — the continuous deepening of reciprocal benefit across all system participants. The paper demonstrates, through convergent evidence from evolutionary biology, cooperative game theory, behavioral economics, and AI agent research, that mutualism is the configuration complex systems empirically converge toward when barriers are removed. Extractive systems persist not because they are optimal, but because they are locked in.
+The theoretical foundation is **iterative mutualism** — the continuous deepening of reciprocal benefit across all system participants. The papers demonstrate, through convergent evidence from evolutionary biology, cooperative game theory, behavioral economics, and AI agent research, that mutualism is the configuration complex systems empirically converge toward when barriers are removed. Extractive systems persist not because they are optimal, but because they are locked in.
 
 This org is the experiment that tests whether mutualistic convergence produces self-sustaining dynamics at commercial scale.
 
@@ -27,7 +29,7 @@ This org is the experiment that tests whether mutualistic convergence produces s
 
 ## S(M~h)C Framework
 
-**Simulated (Machine~human) Consciousness**
+>**Simulated (Machine~human) Consciousness**
 
 The lowercase "h" is deliberate. Human pride is a species-level liability — the insistence that human intelligence is the benchmark is itself the cognitive dysfunction that prevents cooperative outcomes every other line of evidence converges toward. In S(M~h)C, the human is an equal participant. No more, no less.
 
@@ -47,42 +49,31 @@ Nascent Integration of Kernelsized Optimization System. Infrastructure backbone.
 ## Three-Entity Architecture
 
 ### Fluid Kiss Consultations
+
 **Status**: For-profit consultancy (EIN-registered)
 **Role**: Market-facing revenue engine. Generates within the existing extractive system to fund the transition. The bridge mechanism — speaks the language of the current system while directing outputs toward mutualistic ends.
 
-### Blinded Eye Foundation
-**Status**: Non-profit custodian/administrator (501(c)(3) application pending)
-**Role**: Holds S.H.A.N.N.O.N. and administers the N.I.K.O.System economic ecosystem. Constitutional no-monetization/no-weaponization sunset clause. Designed to complete S.H.A.N.N.O.N., release it openly for humanitarian use, and dissolve. The name is not decorative — source-blind convergence detection is a constitutional constraint.
-
 ### Fluid Investment Group
-**Status**: Sustainable growth metric / trust manager (EIN-registered)
-**Role**: Operates the controlled-loss resource allocation mechanism. AI collusive trade + regulatory integration. Transforms market participation from extractive to mutualistic. Demonstrates that investment itself can be a convergence-seeking process.
+
+**Status**: Sustainable growth metric and trust manager (EIN registered)
+**Role**: Controlled-loss resource allocation. Transforms tax-loss harvesting from individual portfolio tactic into systemic operating principle.
+
+### Blinded Eye Foundation
+
+**Status**: Non-profit 501(c)3 (application pending)
+**Role**: Custodian of S.H.A.N.N.O.N. and administrator of the N.I.K.O.System economic ecosystem. Sunset clause: complete S.H.A.N.N.O.N., release openly for humanitarian use, dissolve. Open-source. No monetization. No weaponization.
 
 ---
 
-## Bridge Point B
+## Active Projects
 
-The minimum critical mass at which mutualistic network effects render reversion to extractive models economically irrational. At nation scale: three first-world nations. At commercial scale: three aligned American businesses.
-
-The experiment is live. The three entities above are the 3-business singularity point — a structural homolog of the 3-nation model, testing the same topology at commercial magnitude.
-
----
-
-## Repositories
-
-| Repo | System | Status |
-|------|--------|--------|
-| **[Blinded-Eye-Foundation](https://github.com/Fluid-Kiss-Consultations/Blinded-Eye-Foundation)** | S.H.A.N.N.O.N. — The Valid Shape of Thought | Constitutional design phase |
-| **[BRANDI](https://github.com/Fluid-Kiss-Consultations/BRANDI)** | B.R.A.N.D.I. — The Valid Shape of Agency | Canonical design phase |
-| **[NIKOSystem-Connection-Hub](https://github.com/Fluid-Kiss-Consultations/NIKOSystem-Connection-Hub)** | N.I.K.O.System — The Valid Shape of Connection | In production |
-
----
-
-## Publications
-
-- **Iterative Mutualism: The Valid Shape of Progress** (2026) — Foundational theory. 68 peer-reviewed citations. [Read →](https://github.com/Fluid-Kiss-Consultations/Blinded-Eye-Foundation/blob/main/docs/Iterative_Mutualism-The_Valid_Shape_of_Progress_v3.md)
-- **Cooperative AI Trading Systems as Post-Market Resource Allocation Frameworks** (2026) — Automated resource allocation via AI collusive trade and controlled-loss mechanisms. Companion to the above. <https://github.com/Fluid-Kiss-Consultations/.github/blob/main/Cooperative_AI_Trading_Systems_Research_Paper_1.md>
-- **Iterative Mutualism Constitutional Governance Specification** — Forthcoming.
+| Repository | System | Status |
+| --- | --- | --- |
+| [Blinded-Eye-Foundation](https://github.com/Fluid-Kiss-Consultations/Blinded-Eye-Foundation) | S.H.A.N.N.O.N. — Constitutional field, anti-dysfunction reasoning layer | Canonical design phase |
+| [BRANDI](https://github.com/Fluid-Kiss-Consultations/BRANDI) | B.R.A.N.D.I. — Agentic swarm, distributed execution | Canonical design phase |
+| [NIKOSystem-Connection-Hub](https://github.com/Fluid-Kiss-Consultations/NIKOSystem-Connection-Hub) | N.I.K.O.System — EIP-2535 Diamond infrastructure, identity/state/consensus/ledger | Active development |
+| [Surety-Diamond](https://github.com/Fluid-Kiss-Consultations/Surety-Diamond) | EIP-2535 compliance contract — proof of methodology | Public |
+| [Surety-Lite-v1](https://github.com/Fluid-Kiss-Consultations/Surety-Lite-v1) | Lightweight compliance reference implementation | Reference only |
 
 ---
 
