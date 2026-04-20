@@ -31,6 +31,7 @@ Pressure-test items from session 5 ratified and applied.
 - **Para 5 Stanford disambiguation inserted (item 5).** "the Stanford Encyclopedia of Philosophy entry (Stanford SEP) canonically maps the landscape" → "the Stanford Encyclopedia of Philosophy entry (Stanford SEP), authored by P.K. Stanford, whose 2006 book anchors the previous paragraph, canonically maps the landscape." Explicit disambiguation that "Stanford SEP" and "Stanford 2006" are the same P.K. Stanford, different works. The parenthetical adds ~15 words but removes any reviewer confusion at the single point where the two citations live adjacent.
 
 Items 2, 3, 4, 6, 7 retained per your calls:
+
 - Item 2: synthetic-extension handling now ratified as a workflow protocol (see Open flags).
 - Item 3: "generative model" kept — the framework presents synthesis with cited-foundation, and the precise Layer-1 terminology carries the synthesis transparently.
 - Item 4: SEP placement in para 5 kept.
@@ -46,6 +47,7 @@ Section length: ~1,125 words (measured 1,127 after v2 edits). The disambiguation
 Every §IV-§IX paragraph that reads one layer's findings through another layer's apparatus — i.e., performs a synthetic extension beyond what the individually-cited source asserts — is explicitly flagged in the draft's Open flags for integration into the §VI methodology acknowledgment. §IV's first such extension (para 4: Stanford's historical record read through the cognitive architecture §II described) is the prototype for the protocol.
 
 Protocol rules:
+
 1. Any paragraph performing a synthetic extension carries an explicit flag in its section's Open flags forward to §VI.
 2. The §VI methodology acknowledgment, when drafted, enumerates each flagged extension or references the aggregate by clear criterion (not by opaque gesture).
 3. The framework's synthetic work is declared openly at §VI; individual sections are not responsible for the aggregate acknowledgment, only for the per-paragraph flag.
@@ -78,4 +80,3 @@ This protocol is critically imperative for §VI drafting. §VI cannot honor the 
 ---
 
 *§IV locked at v2. Proceeding to §V Layer 4 (Physics Case Study) on your signal.*
-

@@ -11,7 +11,7 @@
 ## Target proportions
 
 | Section | % | Target words |
-|---|---|---|
+| -- | --- | --- |
 | I. Introduction | 7% | 560 |
 | II. Layer 1 — The Observer as Constructor (Neuroscience) | 12% | 960 |
 | III. Layer 2 — When Construction Self-Seals (Psychiatry) | 12% | 960 |
@@ -38,6 +38,7 @@
 **Preview of four layers + application** (one sentence each).
 
 **Scope bounding:**
+
 - Diagnostic framework, not theory of physics.
 - Does not adjudicate interpretations of quantum mechanics.
 - Applies symmetrically across the debate landscape, including to the present author.
@@ -51,6 +52,7 @@
 **Purpose:** Establish that perception is generated, not received. This is the physiological grounding for the rest of the argument.
 
 **Structure:**
+
 1. The naive "perception as reception" model and its empirical failure.
 2. Predictive processing (Clark 2013): hierarchical prediction machines; perception as prediction-error minimization in a bidirectional cascade.
 3. The free-energy principle (Friston 2010): the mathematical substrate beneath predictive processing; minimizing variational free energy as a unifying imperative for perception, action, and learning.
@@ -68,6 +70,7 @@
 **Purpose:** Show that the construction process has a specific, empirically documented failure mode — the Bias Against Disconfirmatory Evidence (BADE) — with formal operationalization and dimensional extension across the population.
 
 **Structure:**
+
 1. Most of the time, the construction process works. The generative model updates on disconfirming evidence, predictions improve, perception tracks the world adequately.
 2. Sometimes the updating does not happen. Clinical research has operationalized this failure mode: Moritz & Woodward (2006) — the BADE paradigm and its initial formalization.
 3. Sterzer et al. (2018): predictive-processing integration of delusional ideation. Delusions as aberrant predictive processing — specifically, a breakdown in the weighting of prediction errors that normally drives model update.
@@ -86,6 +89,7 @@
 **Purpose:** Establish the logical fact that underwrites the cognitive mechanism — evidence underdetermines theory, so any belief system can be maintained against disconfirmation via auxiliary adjustment.
 
 **Structure:**
+
 1. Duhem (1906) and Quine (1951): the holism of confirmation. Statements face experience as a corporate body. Any statement can be held true come what may by making sufficient adjustments elsewhere in the system.
 2. Stanford (SEP, latest edition): the contemporary underdetermination landscape; authoritative contemporary survey.
 3. Stanford (2006), *Exceeding Our Grasp*: the new induction. Scientific communities have repeatedly failed to conceive theoretical alternatives that later proved viable. Theorizing is shaped by the cognitive architecture's capacity to generate hypotheses.
@@ -103,6 +107,7 @@
 **Purpose:** Demonstrate that contemporary fundamental physics is now openly encountering the structural wall. Establish the priority claim — that the cross-disciplinary bridge to Layers 1-2 is unoccupied.
 
 **Structure:**
+
 1. Wolpert, Rovelli, and Scharnhorst (2025): the foundational case. Formalization of the circularity in Second-Law / Past-Hypothesis / Boltzmann-brain reasoning. These arguments rely on arbitrary conditioning choices that physics itself cannot supply. The authors are explicit about the structure; they do not connect it to cognitive science.
 2. Wolfram (2023) "Observer Theory": laws of physics as derivable from observer properties (computational boundedness, persistence-in-time assumption). Physics as observer-relative. Flagged caveat: long-form essay on personal site, not peer-reviewed; cite with the Wolfram Institute observer-theory research program as secondary anchor.
 3. Arsiwalla, Elshatlawy, and Rickles (2025) "Towards a Generalized Theory of Observers": formal cybernetic / sensor-actuator framework; observers as the partitions that make physics tractable. Closest-in-theme work to this paper. Operates entirely within physics / computational / cybernetic terrain. Does not cross into predictive-processing neuroscience or psychiatric literature.
@@ -120,6 +125,7 @@
 **Purpose:** The argumentative core. Show that the four layers describe one phenomenon seen from four angles, and make the formal-identity claim deductively rather than suggestively.
 
 **Structure:**
+
 1. The central claim: the cognitive architecture doing perception (Layer 1), the one doing clinical reasoning (Layer 2), the one doing philosophy of science (Layer 3), and the one doing fundamental physics (Layer 4) are the same architecture.
 2. Two features of that architecture: (a) construction, not reception; (b) operation under underdetermination.
 3. When the architecture is confronted with a domain where the underlying substrate is detached from direct observation — non-causal, non-medium-scale, or accessible only through translation — it faces a structural condition. Any model reproducing the observable residue is formally equivalent to any other. Disconfirmation from within cannot proceed.
@@ -140,6 +146,7 @@
 **Purpose:** Demonstrate the framework's diagnostic utility on a concrete live debate. Bounded scope; not advocating any position.
 
 **Structure:**
+
 1. Framing. The contemporary quantum-foundations debate — standard QM, superdeterminism, retrocausality — is not a soluble technical dispute. It is the framework's prediction made visible. Each camp protects its prior (locality, time-symmetry, Statistical Independence) via auxiliary machinery that becomes unfalsifiable within its own framework.
 2. Brief landscape survey:
    - Standard QM accepts nonlocality and denies the need for hidden variables (Bell's theorem as closure).
@@ -203,6 +210,7 @@
 ## Design notes for review
 
 **Architecture rationale:**
+
 - Physics-first hook (§I) protects against knee-jerk rejection by physicist readers.
 - Four-layer walk (§§II-V) is deductive, not descriptive — each layer adds an argumentative premise.
 - Synthesis section (§VI) earns its place by making the formal-identity claim deductively, not merely suggesting it.
@@ -211,6 +219,7 @@
 - §IX as a separate short section, not folded into conclusion, serves the D-softened voice — explicit epistemic humility.
 
 **What is deliberately absent:**
+
 - No separate "methods" section. The methodology is the four-layer cross-disciplinary integration itself.
 - No mention of Iterative Mutualism, Bridge Point B, the Great Filter, or any downstream work. Paper stands alone.
 - No keystone-position framing. The paper's position in a series is for a future paper's introduction if ever published as a series.
@@ -237,6 +246,7 @@ No drafting beyond the outline until you signal.
 ## Session wind-down note
 
 If you're ready to wind the session down after outline review, the natural next gates are:
+
 1. Outline ratification (possibly with revisions from review prompts a-e).
 2. Drafting §I (Introduction) — the highest-value-per-word section.
 3. Drafting §§II-V (the four layers) — these can be parallelized or sequenced based on your rhythm.

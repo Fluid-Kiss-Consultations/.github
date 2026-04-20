@@ -81,7 +81,7 @@ Section length: ~1,114 words against 1,200 baseline (v1 was ~1,116; net -2 from 
 
   The inventory is populated. Per session 5 canonical decision #6 rule 2, §VI methodology acknowledgment can enumerate each item or reference the aggregate by clear criterion. At 8 items, aggregate-by-criterion is the likely path; both remain honest. §VI drafting call.
 
-- **Wolfram Institute URL (institutional anchor).** Referenced parenthetically in para 4 ("an ongoing observer-theory research program at the Wolfram Institute"). Reference-list pair preserved per master-references canonical guidance — the Wolfram Institute observer-theory research program URL (https://wolframinstitute.org/research/observer-theory) serves as academic secondary anchor for the Wolfram 2023 personal-site citation.
+- **Wolfram Institute URL (institutional anchor).** Referenced parenthetically in para 4 ("an ongoing observer-theory research program at the Wolfram Institute"). Reference-list pair preserved per master-references canonical guidance — the Wolfram Institute observer-theory research program URL (<https://wolframinstitute.org/research/observer-theory>) serves as academic secondary anchor for the Wolfram 2023 personal-site citation.
 
 - **Terminology register in §V.** §V body uses "direct causal contact" (para 1) and "causal pathway" (para 1) but not the §II canonical phrase "causal mediation." This is intentional: §II grounds the term as the access-modality condition; §III v3 introduced the domain-qualifier pair "direct causal contact" / "translation-only zone"; §V as physics-domain-instantiation section uses the §III register. Both vocabularies are paper-canonical and distribute correctly across sections.
 
