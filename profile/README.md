@@ -29,7 +29,7 @@ This org is the experiment that tests whether mutualistic convergence produces s
 
 ## S(M~h)C Framework
 
->**Simulated (Machine~human) Consciousness**
+## Simulated (Machine~human) Consciousness
 
 The lowercase "h" is deliberate. Human pride is a species-level liability — the insistence that human intelligence is the benchmark is itself the cognitive dysfunction that prevents cooperative outcomes every other line of evidence converges toward. In S(M~h)C, the human is an equal participant. No more, no less.
 
